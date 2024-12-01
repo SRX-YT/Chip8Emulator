@@ -15,9 +15,9 @@ make
 `make all`
 
 ## Usage
-`emulator "Scale" "Speed" "ROM.ch8"`
+`./emulator "Scale" "Speed" "ROM.ch8"`
 
 ## Example
-`emulator 20 4 test_opcode.ch8`
+`./emulator 20 4 test_opcode.ch8`
 
 Made in Visual Studio Code using make and g++
