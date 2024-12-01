@@ -4,7 +4,11 @@ My first working emulator ever, made it by guides etc.
 Wanna to continue and add more features
 
 ## Dependencies
-
+```
+g++
+libsdl2
+libsdl2-dev
+```
 
 ## Compile
 `make all`
