@@ -8,6 +8,7 @@ Wanna to continue and add more features
 g++
 libsdl2
 libsdl2-dev
+make
 ```
 
 ## Compile
